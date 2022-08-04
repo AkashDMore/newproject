@@ -1,0 +1,26 @@
+body{
+    background: rgb(234, 223, 223);
+}
+
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+}
+.box{
+    border-radius: 10px;
+  box-shadow: 0px 15px 20px darkgray;
+  padding: 10px;
+  width: 50%;
+  height: 50%;
+  min-height: 300px;
+  text-align: center;
+}
+/* form div{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 10px auto;
+} */
